@@ -1,6 +1,6 @@
-fork_me_ribbon_url: https://github.com/coderefinery/reproducible-research
-baseurl: "/reproducible-research"
-title: "Reproducible research"
+fork_me_ribbon_url: https://github.com/accio/hallmarks-scientific-software
+baseurl: "/hallmarks-scientific-software"
+title: "Hallmarks of Good Scientific Software"
 
 source: .
 destination: ./_site
