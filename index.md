@@ -3,12 +3,13 @@ layout: lesson
 permalink: /
 ---
 
-# Reproducible research
+# Hallmarks of Good Scientific Software
 
-In this lesson we will discuss different methods and tools for better
-reproducibility in research software and data. We will demonstrate how version
-control, workflows, containers, and package managers can be used to record
-reproducible environments and computational steps.
+In this tutorial, we will strive to build good scientific software. By `good`
+scientific software we mean readable, reproducible, and reliable software that
+address scientific questions by data analysis and modelling. We will try to
+define hallmarks of good scientific software, and discuss how to use software
+tools to achieve these hallmarks.
 
 
 > ## Prerequisites
