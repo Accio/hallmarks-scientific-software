@@ -1,6 +1,5 @@
 
-# [Tutorial on hallmarks of good scientific
-software](https://accio.github.io/hallmarks-scientific-software)
+# [Tutorial on hallmarks of good scientific software](https://accio.github.io/hallmarks-scientific-software)
 
 
 The tutorial is inspired by [Lesson on reproducible
